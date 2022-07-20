@@ -113,7 +113,7 @@ const Navbar = () => {
         {isClicked.notification && <Notification />}
         {isClicked.userProfile && <UserProfile />}
       </div>
-    </div>
+    
   );
 };
 
